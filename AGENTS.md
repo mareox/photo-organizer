@@ -10,10 +10,10 @@ Python tool for organizing and managing photo collections.
 
 ```bash
 cd photo-organizer && ls              # survey the scripts before running anything
-bash <script>.sh --help      # most scripts are self-documenting
+cat organize_photos.py        # read the full script before running it; it takes no arguments
 ```
 
-Read the repo README.md for tool-specific usage. Run scripts only after
+Read the repo readme.md for tool-specific usage. Run scripts only after
 reviewing them; most target homelab infrastructure or personal machines.
 
 ## Operating rules
